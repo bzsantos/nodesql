@@ -1,5 +1,5 @@
 npm install sequelize
-
+npm install --save mysql2
 
 //conect-sq.js
 //Adicionando tabelas no banco de dados
