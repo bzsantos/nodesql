@@ -1,3 +1,7 @@
+npm install mysql
+
+//conecta-banco-mysql.js
+
 const mysql = require('mysql');
 
 // Cria uma conexão com o banco de dados
